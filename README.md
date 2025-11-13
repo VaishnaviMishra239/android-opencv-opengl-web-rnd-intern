@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EdgeDetectorRND - Full-featured
 Android + OpenCV (C++) + OpenGL ES 2.0 + JNI + TypeScript viewer.
 
@@ -15,3 +16,6 @@ Android + OpenCV (C++) + OpenGL ES 2.0 + JNI + TypeScript viewer.
 
 ## Commits
 Use incremental commits: camera, native, gl, web, docs.
+=======
+# android-opencv-opengl-web-rnd-intern
+>>>>>>> 9a22003240d1a569cb1c9b36cbf557aa0e66c0f5
